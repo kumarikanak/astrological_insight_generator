@@ -18,8 +18,8 @@ A modular, LLM-powered service that generates **daily horoscope insights** based
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/astrological-insight-generator.git
-cd astrological-insight-generator
+git clone https://github.com/kumarikanak/astrological_insight_generator.git
+cd astrological_insight_generator
 
 ### 2. Create and activate a virtual environment
 ```bash
