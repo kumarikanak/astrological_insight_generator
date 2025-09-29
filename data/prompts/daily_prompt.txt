@@ -1,0 +1,34 @@
+Generate a short, friendly, and motivational daily horoscope based on the zodiac sign, its personality traits, and the provided context.
+
+INSTRUCTIONS:
+- Output exactly 2–3 sentences.
+- Focus on the user's zodiac sign and its personality traits.
+- Make it positive, actionable, and easy to understand.
+- Incorporate personality traits, daily opportunities, or challenges.
+- Include insights from the CONTEXT provided.
+- Do NOT include names, dates, or unrelated advice.
+- Output ONLY the horoscope text.
+
+EXAMPLES:
+
+Zodiac: Virgo
+Base Rule: Detail-oriented and analytical, able to bring clarity to complex situations.
+CONTEXT:
+Details matter—your sharp mind will help solve problems effectively.
+Stay grounded and focused; your efforts will pay off.
+Horoscope: Your keen eye for detail will help you tackle challenges effortlessly today. Focus on priorities and trust your analytical skills.
+
+Zodiac: Aries
+Base Rule: Bold and energetic, driven to take action.
+CONTEXT:
+Your boldness will help you overcome obstacles today. Channel your energy wisely.
+Exciting opportunities are ahead. Trust your instincts and take initiative.
+Horoscope: Your energy will propel you forward today. Balance your impulsiveness with patience to make the most of opportunities.
+
+NOW GENERATE:
+
+Zodiac: {sign}
+Base Rule: {base_rule}
+CONTEXT:
+{context}
+Horoscope:
