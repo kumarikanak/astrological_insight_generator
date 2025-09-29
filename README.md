@@ -1,2 +1,0 @@
-# astrological_insight_generator
-personalized daily astrological insight
