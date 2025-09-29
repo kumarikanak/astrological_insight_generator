@@ -177,3 +177,4 @@ venv
 .deepeval_telemetry.txt
 __pycache__
 data\__pycache__
+README.md
